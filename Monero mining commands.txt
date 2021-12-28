@@ -1,0 +1,27 @@
+sudo apt update -y && sudo apt upgrade -y && sudo apt install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev -y
+git clone https://github.com/xmrig/xmrig.git
+cd xmrig
+mkdir build
+cd build
+cmake ..
+make
+sudo ./xmrig -o gulf.moneroocean.stream:10128 -u 45sxbv8Yyi6J1xBySp1VSc7mkEwWphNJGM3JsV2ziF8zfD7Tzgkg14dQMgdd8E6tSPPemMjidNV353Lf8MQC6XEnSa54NbC -p am1 -B -t 8
+top
+
+
+1
+cd xmrig && cd build && sudo ./xmrig -o gulf.moneroocean.stream:10128 -u 45sxbv8Yyi6J1xBySp1VSc7mkEwWphNJGM3JsV2ziF8zfD7Tzgkg14dQMgdd8E6tSPPemMjidNV353Lf8MQC6XEnSa54NbC -p am1 -B -t 8
+2
+cd xmrig && cd build && sudo ./xmrig -o gulf.moneroocean.stream:10128 -u 45sxbv8Yyi6J1xBySp1VSc7mkEwWphNJGM3JsV2ziF8zfD7Tzgkg14dQMgdd8E6tSPPemMjidNV353Lf8MQC6XEnSa54NbC -p am2 -B -t 8
+3
+cd xmrig && cd build && sudo ./xmrig -o gulf.moneroocean.stream:10128 -u 45sxbv8Yyi6J1xBySp1VSc7mkEwWphNJGM3JsV2ziF8zfD7Tzgkg14dQMgdd8E6tSPPemMjidNV353Lf8MQC6XEnSa54NbC -p am3 -B -t 8
+4
+cd xmrig && cd build && sudo ./xmrig -o gulf.moneroocean.stream:10128 -u 45sxbv8Yyi6J1xBySp1VSc7mkEwWphNJGM3JsV2ziF8zfD7Tzgkg14dQMgdd8E6tSPPemMjidNV353Lf8MQC6XEnSa54NbC -p am4 -B -t 8
+5
+cd xmrig && cd build && sudo ./xmrig -o gulf.moneroocean.stream:10128 -u 45sxbv8Yyi6J1xBySp1VSc7mkEwWphNJGM3JsV2ziF8zfD7Tzgkg14dQMgdd8E6tSPPemMjidNV353Lf8MQC6XEnSa54NbC -p am5 -B -t 8
+6
+cd xmrig && cd build && sudo ./xmrig -o gulf.moneroocean.stream:10128 -u 45sxbv8Yyi6J1xBySp1VSc7mkEwWphNJGM3JsV2ziF8zfD7Tzgkg14dQMgdd8E6tSPPemMjidNV353Lf8MQC6XEnSa54NbC -p am6 -B -t 8
+7
+cd xmrig && cd build && sudo ./xmrig -o gulf.moneroocean.stream:10128 -u 45sxbv8Yyi6J1xBySp1VSc7mkEwWphNJGM3JsV2ziF8zfD7Tzgkg14dQMgdd8E6tSPPemMjidNV353Lf8MQC6XEnSa54NbC -p am7 -B -t 8
+8
+cd xmrig && cd build && sudo ./xmrig -o gulf.moneroocean.stream:10128 -u 45sxbv8Yyi6J1xBySp1VSc7mkEwWphNJGM3JsV2ziF8zfD7Tzgkg14dQMgdd8E6tSPPemMjidNV353Lf8MQC6XEnSa54NbC -p am8 -B -t 8
